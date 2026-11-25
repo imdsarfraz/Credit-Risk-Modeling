@@ -1,0 +1,9 @@
+# Data files: the dataset is 240 MB and GitHub rejects files larger than 100 MB
+*.csv
+*.zip
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
